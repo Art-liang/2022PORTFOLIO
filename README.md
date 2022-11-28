@@ -15,6 +15,8 @@
 * [部落格]
 * [聯絡我]
 
+## 文件結構
+Within the download you'll find the following directories and files:
 ```
 material-dashboard
     ├── assets
